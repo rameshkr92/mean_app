@@ -1,0 +1,26 @@
+{
+  "name": "mean_app",
+  "description": "mean app",
+  "main": "server.js",
+  "authors": [
+    "Ramesh Kumar"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "mean",
+    "app"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-ui-router": "^0.3.2",
+    "bootstrap": "^3.3.7"
+  }
+}
